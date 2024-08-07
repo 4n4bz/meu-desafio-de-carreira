@@ -36,3 +36,6 @@ Quero entender mais do git, inseri-lo com segurança em meus projetos e não ter
 
 Quero saber mais sobre o método arrays, não só reconhecer o exemplo em uma explicação e interligar, mas também ter conhecimento do todo. 
 
+**O que eu aprendi no módulo 2** 
+
+No módulo 2 aprendi métodos de arrays, função, metódos de string, utilitários. 
